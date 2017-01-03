@@ -11,7 +11,7 @@ Gasparrini A, Guo Y, Hashizume M, Kinney P, Petkova EP, Lavigne E, Zanobetti A, 
 
 The code:
 
-  * *regEngWales* stores the daily time series data from 10 locations corresponding to regions of England and Wales in the period 1993--2006
+  * *regEngWales.csv* stores the daily time series data from 10 locations corresponding to regions of England and Wales in the period 1993--2006
   * the numbered files from *00.prepdata.R* to *05.plots* reproduce the results of an example with the subset of data
   
 Download as a ZIP file using the green button *Clone or download* above
