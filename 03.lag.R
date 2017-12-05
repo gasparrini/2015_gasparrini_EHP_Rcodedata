@@ -6,7 +6,7 @@
 #   Environmental Health Perspectives - 2015
 #   http://www.ag-myresearch.com/2015_gasparrini_ehp.html
 #
-# Update: 15 January 2017
+# Update: 05 December 2017
 # * an updated version of this code, compatible with future versions of the
 #   software, is available at:
 #   https://github.com/gasparrini/2015_gasparrini_EHP_Rcodedata
