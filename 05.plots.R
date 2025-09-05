@@ -90,7 +90,7 @@ for(i in seq(dlist)) {
 dev.off()
 
 ################################################################################
-# POOLED: AVERAGE (FIGURE 2 AND S3 IN SUPPLEMENTAL MATERIAL)
+# POOLED: AVERAGE (FIGURE 2 AND S4)
 
 indlab <- predper%in%c(0,1,10,50,90,99,100)
 
@@ -108,7 +108,7 @@ mtext(paste(period,collapse="-"),cex=0.7,line=0)
 
 dev.off()
 
-pdf("figureS4.pdf",width=4,height=4)
+pdf("figure4.pdf",width=4,height=4)
 layout(1)
 par(mex=0.8,mgp=c(2.5,1,0),las=1)
 
@@ -119,7 +119,7 @@ mtext(paste(period,collapse="-"),cex=0.7,line=0)
 dev.off()
 
 ################################################################################
-# POOLED: 1993-2006 (FIGURE 2 AND 3 IN THE MANUSCRIPT)
+# POOLED: 1993-2006 (FIGURE 3 AND 4 IN THE MANUSCRIPT)
 
 pdf("figure3.pdf",width=4,height=4)
 layout(1)
